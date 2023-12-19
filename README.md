@@ -20,4 +20,4 @@ transpile and watch scss
 npx sass src/styles.scss dist/src/styles.css --watch
 ```
 
-Start GoLive
+Start GoLive# pokemonCenter
